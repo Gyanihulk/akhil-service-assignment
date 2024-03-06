@@ -28,19 +28,19 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Gyanihulk/akhil-service-assignment
-    bash```
+    ```
 
 2. **Navigate to the project directory**
 
    ```bash
    cd akhil-service-assignment
- bash```
+    ```
 
 3. **Install dependencies**
 
    ```bash
    npm install OR yarn 
-  bash```
+    ```
 
 
 
@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    npm run dev OR yarn dev
-  bash`
+    ```
 
   Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
